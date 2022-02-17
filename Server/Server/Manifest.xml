@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" 
+          manifestVersion="1.0">
+
+  <assemblyIdentity
+      type="win32"
+      name="Server"
+      version="1.0.0.0" />
+
+  <file name="Server.dll">
+    <comClass
+        clsid="{1d3d393d-4700-4414-aeb5-7eb1a73c4de6}"
+        threadingModel="Free" />
+  </file>
+
+  <file name="Spotify.tlb">
+    <typelib tlbid="{ba580ab2-d9cb-4902-b897-e00934312742}" resourceid="1" version="1.0" helpdir="" flags="HASDISKIMAGE"/>
+  </file>
+
+  <comInterfaceExternalProxyStub
+      name="ISpotify"
+      iid="{7b2b16c6-edde-4c8e-87c4-614960b71b10}"
+      proxyStubClsid32="{00020424-0000-0000-C000-000000000046}"
+      tlbid = "{ba580ab2-d9cb-4902-b897-e00934312742}" />
+</assembly>
+

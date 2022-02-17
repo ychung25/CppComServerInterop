@@ -1,0 +1,3 @@
+C:\Users\yochung\Desktop\WindowsDevelopmentSample-master\WindowsDevelopmentSample-master\InteropPractice\Server\Server\Debug\Server.vcxproj.MdMergeInputs.cache
+C:\Users\yochung\Desktop\WindowsDevelopmentSample-master\WindowsDevelopmentSample-master\InteropPractice\Server\Server\Debug\Server.vcxproj.cppwinrt_plat.cache
+C:\Users\yochung\Desktop\WindowsDevelopmentSample-master\WindowsDevelopmentSample-master\InteropPractice\Server\Server\Debug\Server.vcxproj.cppwinrt_comp.cache

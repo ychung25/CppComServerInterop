@@ -1,0 +1,7 @@
+C:\Users\yochung\Desktop\WindowsDevelopmentSample-master\WindowsDevelopmentSample-master\InteropPractice\Server\CSClient\obj\Debug\CSClient.csproj.AssemblyReference.cache
+C:\Users\yochung\Desktop\WindowsDevelopmentSample-master\WindowsDevelopmentSample-master\InteropPractice\Server\CSClient\obj\Debug\CSClient.csproj.CoreCompileInputs.cache
+C:\Users\yochung\Desktop\WindowsDevelopmentSample-master\WindowsDevelopmentSample-master\InteropPractice\Server\CSClient\bin\Debug\CSClient.exe.config
+C:\Users\yochung\Desktop\WindowsDevelopmentSample-master\WindowsDevelopmentSample-master\InteropPractice\Server\CSClient\bin\Debug\CSClient.exe
+C:\Users\yochung\Desktop\WindowsDevelopmentSample-master\WindowsDevelopmentSample-master\InteropPractice\Server\CSClient\bin\Debug\CSClient.pdb
+C:\Users\yochung\Desktop\WindowsDevelopmentSample-master\WindowsDevelopmentSample-master\InteropPractice\Server\CSClient\obj\Debug\CSClient.exe
+C:\Users\yochung\Desktop\WindowsDevelopmentSample-master\WindowsDevelopmentSample-master\InteropPractice\Server\CSClient\obj\Debug\CSClient.pdb

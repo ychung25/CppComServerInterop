@@ -1,0 +1,26 @@
+import "oaidl.idl";
+import "ocidl.idl";
+
+[
+    uuid(7b2b16c6-edde-4c8e-87c4-614960b71b10),
+    oleautomation,
+    object
+]
+interface ISpotify : IUnknown
+{
+    HRESULT Play();
+};
+
+[
+    uuid(ba580ab2-d9cb-4902-b897-e00934312742)
+]
+library SpotifyInterface
+{
+    interface ISpotify;
+
+    [uuid(1d3d393d-4700-4414-aeb5-7eb1a73c4de6)]
+    coclass Spotify
+    {
+        [default] interface ISpotify;
+    }
+}

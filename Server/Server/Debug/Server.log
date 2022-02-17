@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppClean.targets(77,5): warning : Access to the path 'c:\users\yochung\desktop\windowsdevelopmentsample-master\windowsdevelopmentsample-master\interoppractice\server\debug\server.dll' is denied.
+  Precomplied.cpp
+  Server.cpp
+     Creating library C:\Users\yochung\Desktop\WindowsDevelopmentSample-master\WindowsDevelopmentSample-master\InteropPractice\Server\Debug\Server.lib and object C:\Users\yochung\Desktop\WindowsDevelopmentSample-master\WindowsDevelopmentSample-master\InteropPractice\Server\Debug\Server.exp
+  Server.vcxproj -> C:\Users\yochung\Desktop\WindowsDevelopmentSample-master\WindowsDevelopmentSample-master\InteropPractice\Server\Debug\Server.dll
