@@ -34,7 +34,7 @@ are in the same folder
 1) Generated RCW assembly from Spotify.tlb. 'tlbimp Spotify.tlb' will generate SpotifyInterfaces.dll
 2) CS client references SpotifyInterfaces.dll
 3) Create app.manifest and define registry comserver comsuption <dependentAssembly> just like you did for c++ client.
-4) Consume Hen just like any other C# class.
+4) Consume Spotify just like any other C# class.
 
 [To run the C# example]
 Make sure
